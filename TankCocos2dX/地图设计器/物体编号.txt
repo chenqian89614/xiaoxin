@@ -1,0 +1,12 @@
+//0		Tree		°µ
+//1		Tree		ÁÁ
+//2		mark		Ð¡¿Ó
+//3		mark		´ó¿Ó
+//4		barrier		É³°ü
+//5		barrier		É³°ü
+//6		tower		Ëþ
+//7		tower		Ëþ
+//8		tank1		2ÑªÌ¹¿Ë1
+//9		tank2		Ì¹¿Ë1
+//10		tank3		Ì¹¿Ë2
+//11		tank4		2ÑªÌ¹¿Ë2

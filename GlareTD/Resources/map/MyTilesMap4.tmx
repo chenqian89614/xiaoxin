@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="hexagonal" width="18" height="9" tilewidth="57" tileheight="50">
+ <tileset name="backGround" firstgid="1" tilewidth="57" tileheight="50">
+  <image source="hextile.png"/>
+  <tile id="0">
+   <properties>
+    <property name="value" value="1"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="value" value="0"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Layer 0" width="18" height="9">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAAGNkYGBgRMNMJNK49JKCh5s5+MKHVHcMFXPITTMgDAAqbGvTiAIAAA==
+  </data>
+ </layer>
+</map>
